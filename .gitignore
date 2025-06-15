@@ -1,6 +1,6 @@
-# Ignorar carpetas generadas por Vivado
-.cache/
-.runs/
-.hw/
-.ip_user_files/
-.sim/
+# Ignorar cualquier carpeta que termine en .cache, .runs, etc.
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
