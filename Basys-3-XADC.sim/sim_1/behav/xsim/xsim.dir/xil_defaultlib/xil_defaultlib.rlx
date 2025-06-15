@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.gen/xadc_wiz_0/ip/xadc_wiz_0/xadc_wiz_0.v,1749065683,verilog,,C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/DigitToSeg.v,,xadc_wiz_0,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sim_1/new/XADCdemo_tb.v,1749066647,verilog,,,,XADCdemo_tb,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/DigitToSeg.v,1749063809,verilog,,C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v,,DigitToSeg,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v,1749065657,verilog,,C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/bin2dec.v,,XADCdemo,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/bin2dec.v,1749063809,verilog,,C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/counter3bit.v,,bin2dec,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/counter3bit.v,1749063809,verilog,,C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/decoder3_8.v,,counter3bit,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/decoder3_8.v,1749063809,verilog,,C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/mux4_4bus.v,,decoder_3_8,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/mux4_4bus.v,1749063809,verilog,,C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/segClkDevider.v,,mux4_4bus,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/segClkDevider.v,1749063809,verilog,,C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/sevensegdecoder.v,,segClkDevider,,,,,,,,
+C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/sevensegdecoder.v,1749063809,verilog,,C:/Users/enzof/OneDrive/Desktop/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sim_1/new/XADCdemo_tb.v,,sevensegdecoder,,,,,,,,

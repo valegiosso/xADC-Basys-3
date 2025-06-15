@@ -1,0 +1,6 @@
+# Ignorar carpetas generadas por Vivado
+.cache/
+.runs/
+.hw/
+.ip_user_files/
+.sim/
