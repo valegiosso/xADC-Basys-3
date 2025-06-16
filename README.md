@@ -40,7 +40,7 @@ El funcionamiento general es el siguiente:
 ## 🧩 Estructura del diseño
 
 - `XADCdemo.v`: Configuracion final de todas las conexiones de los compoenentes.
-- `xadc_wiz_0.xci`: Aignacion del ADC y sus caracteristicas.
+- `xadc_wiz_0.xci`: Asignacion del ADC y sus caracteristicas.
 - `c_counter_binary_0.xci`: Contador utilizado para generar las direcciones de memoria de la ram fisica.
 - `Basys3_Master.xdc`: Asignación de pines a la placa Basys-3.
 
