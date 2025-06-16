@@ -79,7 +79,7 @@ El funcionamiento general es el siguiente:
 
 - **Salida del bus de direcciones:** Utiliza los pines restantes del puerto `JB` y la totalidad del puerto `JA`.
 
-## 📚 CréditosAdd commentMore actions
+## 📚 Créditos
 Trabajo práctico realizado por estudiantes de la cátedra Electrónica Digital I, Facultad de Ciencias Exactas, Físicas y Naturales (UNC).
 Docente Responsable: Ing. Mayco N. Orellano.
 
