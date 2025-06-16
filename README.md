@@ -9,10 +9,10 @@ Forma parte de un trabajo práctico para la materia **Electrónica Digital I** (
 **"Sistemas de muestreo y almacenamiento con ADC, memoria RAM y DAC."**
 
 ## Inegrantes de grupo
-@EnzoFernandezz11 
-@valegiosso 
-@EzequieMoreyra 
-@IgnacioAVerdinelli 
+- @EnzoFernandezz11 
+- @valegiosso 
+- @EzequieMoreyra 
+- @IgnacioAVerdinelli 
 
 ## ⚙️ Funcionalidad general
 
