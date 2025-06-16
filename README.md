@@ -8,11 +8,12 @@ Este proyecto implementa un sistema de adquisición, almacenamiento y salida de 
 Forma parte de un trabajo práctico para la materia **Electrónica Digital I** (Facultad de Ciencias Exactas, Físicas y Naturales – UNC), dentro del tema:  
 **"Sistemas de muestreo y almacenamiento con ADC, memoria RAM y DAC."**
 
-## Inegrantes de grupo
+## Integrantes del grupo
 - [@EnzoFernandezz11](https://github.com/EnzoFernandezz11)
 - [@valegiosso](https://github.com/valegiosso)
 - @EzequielMoreyra
 - [@IgnacioAVerdinelli](https://github.com/IgnacioAVerdinelli)
+- Tutor Académico: Ing. Mayco N. Orellano.
 
 ## ⚙️ Funcionalidad general
 
@@ -78,7 +79,11 @@ El funcionamiento general es el siguiente:
 
 - **Salida del bus de direcciones:** Utiliza los pines restantes del puerto `JB` y la totalidad del puerto `JA`.
 
+## 📚 CréditosAdd commentMore actions
+Trabajo práctico realizado por estudiantes de la cátedra Electrónica Digital I, Facultad de Ciencias Exactas, Físicas y Naturales (UNC).
+Docente Responsable: Ing. Mayco N. Orellano.
 
+Basado en el repositorio: [**Basys-3-XADC**](https://github.com/Digilent/Basys-3-XADC)
 
 
 
