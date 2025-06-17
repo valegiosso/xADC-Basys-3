@@ -11,7 +11,7 @@ Forma parte de un trabajo práctico para la materia **Electrónica Digital I** (
 ## Integrantes del grupo
 - [@EnzoFernandezz11](https://github.com/EnzoFernandezz11)
 - [@valegiosso](https://github.com/valegiosso)
-- @EzequielMoreyra
+- [@moreyraezequiel](https://github.com/moreyraezequiel)
 - [@IgnacioAVerdinelli](https://github.com/IgnacioAVerdinelli)
 - Tutor Académico: Ing. Mayco N. Orellano.
 
