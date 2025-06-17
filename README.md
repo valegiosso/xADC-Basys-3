@@ -20,7 +20,7 @@ Forma parte de un trabajo práctico para la materia **Electrónica Digital I** (
 El sistema diseñado permite:
 
 - Leer señales analógicas mediante el **XADC** interno de la FPGA.
-- Almacenar los valores digitalizados en una **memoria RAM interna**.
+- Almacenar los valores digitalizados en una **memoria RAM externa**.
 - Visualizar la señal de entrada en el **display de 7 segmentos** y los **LEDs**.
 
 El funcionamiento general es el siguiente:
