@@ -8,6 +8,10 @@ Este proyecto implementa un sistema de adquisición, almacenamiento y salida de 
 Forma parte de un trabajo práctico para la materia **Electrónica Digital I** (Facultad de Ciencias Exactas, Físicas y Naturales – UNC), dentro del tema:  
 **"Sistemas de muestreo y almacenamiento con ADC, memoria RAM y DAC."**
 
+## 🖼️ Imagen del circuito 
+
+![Circuito](Circuito completo.jpg)
+
 ## Integrantes del grupo
 - [@EnzoFernandezz11](https://github.com/EnzoFernandezz11)
 - [@valegiosso](https://github.com/valegiosso)
