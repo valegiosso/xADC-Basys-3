@@ -10,7 +10,7 @@ Forma parte de un trabajo práctico para la materia **Electrónica Digital I** (
 
 ## 🖼️ Imagen del circuito 
 
-![Diagrama del ADC](diagrama_adc.png)
+![Diagrama del ADC](diagrama_adc.jpg)
 
 ## Integrantes del grupo
 - [@EnzoFernandezz11](https://github.com/EnzoFernandezz11)
