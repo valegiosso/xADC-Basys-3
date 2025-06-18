@@ -10,7 +10,7 @@ Forma parte de un trabajo práctico para la materia **Electrónica Digital I** (
 
 ## 🖼️ Imagen del circuito 
 
-![Circuito](Circuito completo.jpg)
+![Circuito](/Circuito completo.jpg)
 
 ## Integrantes del grupo
 - [@EnzoFernandezz11](https://github.com/EnzoFernandezz11)
